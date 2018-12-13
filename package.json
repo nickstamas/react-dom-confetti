@@ -26,7 +26,7 @@
     "webpack": "^2.3.3"
   },
   "dependencies": {
-    "dom-confetti": "~0.0.11"
+    "dom-confetti": "https://github.com/nickstamas/dom-confetti/tarball/master"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
